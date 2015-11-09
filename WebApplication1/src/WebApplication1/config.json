@@ -1,0 +1,7 @@
+﻿{
+	"Data": {
+		"DefaultConnection": {
+			"ConnectionString": "Server=toolbeltdb.ceykz1yj1woa.us-west-2.rds.amazonaws.com;Database=toolbeltdb-main;Trusted_Connection=True;"
+		}
+	}
+}
